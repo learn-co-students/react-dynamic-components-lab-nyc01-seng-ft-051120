@@ -35,5 +35,26 @@
     "jsdom-global": "3.0.2",
     "mocha": "^5.2.0",
     "sinon": "^6.3.5"
-  }
+  },
+  "description": "## Learning Goals",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChayaGreisman/react-dynamic-components-lab-nyc01-seng-ft-051120.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChayaGreisman/react-dynamic-components-lab-nyc01-seng-ft-051120/issues"
+  },
+  "homepage": "https://github.com/ChayaGreisman/react-dynamic-components-lab-nyc01-seng-ft-051120#readme",
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
